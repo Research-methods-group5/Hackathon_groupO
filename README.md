@@ -66,14 +66,14 @@ flowchart TD
 
 | Member | Role | GitHub |
 |:---|:---|:---|
-| Member 01 | Team Coordinator | @username |
-| Member 02 | Data Exploration | @username |
-| Member 03 | Data Preprocessing | @username |
-| Member 04 | Feature Engineering | @username |
-| Member 05 | Model Development | @username |
-| Member 06 | Model Optimisation | @username |
-| Member 07 | Model Evaluation | @username |
-| Member 08 | Explainable AI | @username |
+| Member 01 | Team Coordinator | sahithreddypundru |
+| Member 02 | Data Exploration | @sriloki4887|
+| Member 03 | Data Preprocessing | @abineshraw1998 |
+| Member 04 | Feature Engineering | @sapavat Athira |
+| Member 05 | Model Development | @sadweep03|
+| Member 06 | Model Optimisation | @vishnu181-max|
+| Member 07 | Model Evaluation | @Dharanidhar Beere |
+| Member 08 | Explainable AI | @waleedabd10 |
 | Member 09 | Visualisation & Presentation | @username |
 
 ## 🛠️ 05. Technology Universe
