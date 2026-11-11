@@ -99,11 +99,7 @@ Our first step is to understand the dataset before building predictive models.
 - Outlier detection.
 - Target variable analysis.
 
-<div align="center">
 
-**DATA EXPLORATION → PATTERN DISCOVERY → INSIGHTS**
-
-</div>
 
 ## 🤖 07. Model Laboratory
 
@@ -149,11 +145,11 @@ Our five best model configurations will be ranked and submitted for evaluation.
 ```text
 predictions/
 │
-├── prediction_1.csv  # 🥇 Best
-├── prediction_2.csv  # 🥈 Second
-├── prediction_3.csv  # 🥉 Third
-├── prediction_4.csv  # Fourth
-└── prediction_5.csv  # Fifth
+├── Challenge_submission_group_O_order 1.csv  # 🥇 Best
+├── Challenge_submission_group_O_order2.csv  # 🥈 Second
+├── Challenge_submission_group_O_order3.csv  # 🥉 Third
+├── Challenge_submission_group_O_order4.csv  # Fourth
+└── Challenge_submission_group_O_order5.csv  # Fifth
 ```
 
 ## 📁 11. Project Architecture
