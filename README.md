@@ -109,14 +109,14 @@ Our first step is to understand the dataset before building predictive models.
 
 We will experiment with different algorithms based on the challenge requirements.
 
-| Model | Experiment |
-|:---|:---|
-| Logistic Regression | Baseline |
-| Decision Tree | Tree-based learning |
-| Random Forest | Ensemble learning |
-| SVM | Classification |
-| Gradient Boosting | Boosted learning |
-| XGBoost | Advanced optimisation |
+| Model |
+|:---|
+| Random forest |
+| HistGradient|
+| Logistic Regression | 
+| Random forest|
+| Random forest|
+
 
 ## 🎯 08. Performance Dashboard
 
