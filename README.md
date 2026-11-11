@@ -110,7 +110,7 @@ We will experiment with different algorithms based on the challenge requirements
 | Random forest |
 | HistGradient|
 | Logistic Regression | 
-| Random forest|
+| Logistic Regression|
 | Random forest|
 
 
